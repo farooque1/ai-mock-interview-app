@@ -38,7 +38,7 @@ Edit `.env.local`:
 
 # ADD these lines:
 DATABASE_URL=postgresql://neondb_owner:npg_wbjXv2nHhtM7@ep-withered-glade-ahsn5skc-pooler.c-3.us-east-1.aws.neon.tech/AI-mock-interview?sslmode=require&channel_binding=require
-GEMINI_API_KEY=AIzaSyDaqiY8rIha8Bi3eZEW6QTwd9vErmg32H0
+GEMINI_API_KEY=AI
 
 # Keep these:
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_YWxpdmUtbWFjYXctMjYuY2xlcmsuYWNjb3VudHMuZGV2JA
